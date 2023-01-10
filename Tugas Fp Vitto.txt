@@ -1,0 +1,8 @@
+no 1
+- Dengan bahasa anda sendiri, jelaskan apa itu REST API
+REST API ini sebagai jembatan antara client yang dimana client membutuhkan update, hapus, update, dan juga view dan rest api akan meneruskan ke server sebagai object.
+
+no 3
+- Apa itu headless architecture, dan apa kelebihannya dibandingkan menyajikan frontend?
+headless architecture adalah perangkat lunak canggih dan kuat yang berjalan sebagai sistem terpisah. Berlawanan dengan yang tradisional, dan memisahkan lapisan presentasi dari mesin perdagangan.
+keuntungan: memberikan kefleksibilitas untuk memilih cara terbaik membangun lapisan frontend.
